@@ -1,1 +1,1 @@
-- Synl.io [Management Panel](https://discord.gg/mavera)
+- Discord [Discord Panel](https://discord.gg/mavera)
