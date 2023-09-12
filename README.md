@@ -1,8 +1,8 @@
 <p align="center"> 
-Profili Gezen Kişi Sayısı<br>
+Profili Gezen Kişi Sayısı<2000>
   
- <img src="https://profile-counter.glitch.me/kairos3152/count.svg" />
-</p>
+ ![image](https://github.com/kairos3152/kairos3152/assets/134141367/44e08236-bd3e-47a7-90a9-7ae92c564a50)
+
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1049727678091120640?hideDiscrim=true)](https://discord.com/users/1049727678091120640)
 
